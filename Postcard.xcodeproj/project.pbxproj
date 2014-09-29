@@ -12,6 +12,8 @@
 		DC7B525019C791FD003A3747 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC7B524E19C791FD003A3747 /* Main.storyboard */; };
 		DC7B525219C791FD003A3747 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC7B525119C791FD003A3747 /* Images.xcassets */; };
 		DC7B525E19C791FD003A3747 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7B525D19C791FD003A3747 /* PostcardTests.swift */; };
+		DC7B526819C7A584003A3747 /* Humble Beginnings.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC7B526719C7A584003A3747 /* Humble Beginnings.jpg */; };
+		DC7B526A19CA376A003A3747 /* po-stamp.gif in Resources */ = {isa = PBXBuildFile; fileRef = DC7B526919CA376A003A3747 /* po-stamp.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +36,8 @@
 		DC7B525719C791FD003A3747 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC7B525C19C791FD003A3747 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC7B525D19C791FD003A3747 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		DC7B526719C7A584003A3747 /* Humble Beginnings.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Humble Beginnings.jpg"; sourceTree = "<group>"; };
+		DC7B526919CA376A003A3747 /* po-stamp.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "po-stamp.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +91,8 @@
 		DC7B524819C791FD003A3747 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DC7B526719C7A584003A3747 /* Humble Beginnings.jpg */,
+				DC7B526919CA376A003A3747 /* po-stamp.gif */,
 				DC7B524919C791FD003A3747 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -189,6 +195,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC7B526819C7A584003A3747 /* Humble Beginnings.jpg in Resources */,
+				DC7B526A19CA376A003A3747 /* po-stamp.gif in Resources */,
 				DC7B525019C791FD003A3747 /* Main.storyboard in Resources */,
 				DC7B525219C791FD003A3747 /* Images.xcassets in Resources */,
 			);
